@@ -1,0 +1,7 @@
+C:\Users\rupom\OneDrive\Desktop\Ditrib App Assignment 1\wcf-Assignment1\assignment1Service\assignment1Service\bin\assignment1Service.dll.config
+C:\Users\rupom\OneDrive\Desktop\Ditrib App Assignment 1\wcf-Assignment1\assignment1Service\assignment1Service\bin\assignment1Service.dll
+C:\Users\rupom\OneDrive\Desktop\Ditrib App Assignment 1\wcf-Assignment1\assignment1Service\assignment1Service\bin\assignment1Service.pdb
+C:\Users\rupom\OneDrive\Desktop\Ditrib App Assignment 1\wcf-Assignment1\assignment1Service\assignment1Service\obj\Debug\assignment1.csproj.AssemblyReference.cache
+C:\Users\rupom\OneDrive\Desktop\Ditrib App Assignment 1\wcf-Assignment1\assignment1Service\assignment1Service\obj\Debug\assignment1.csproj.CoreCompileInputs.cache
+C:\Users\rupom\OneDrive\Desktop\Ditrib App Assignment 1\wcf-Assignment1\assignment1Service\assignment1Service\obj\Debug\assignment1Service.dll
+C:\Users\rupom\OneDrive\Desktop\Ditrib App Assignment 1\wcf-Assignment1\assignment1Service\assignment1Service\obj\Debug\assignment1Service.pdb
